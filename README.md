@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://shareprompt-e35xrub7f-aayushmans-projects-3986618b.vercel.app/" target="_blank">
-      <img src="https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing/assets/151519281/40a6e6fe-7f97-45bc-8113-bb5732fdcdb7" alt="Project Banner">
+      <img src="" alt="Vercel Deployed Link">
     </a>
   <br />
 

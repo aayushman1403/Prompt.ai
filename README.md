@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://shareprompt-e35xrub7f-aayushmans-projects-3986618b.vercel.app/" target="_blank">
-      <img src="" alt="Vercel Deployed Link">
-    </a>
+  <a href="https://shareprompt-e35xrub7f-aayushmans-projects-3986618b.vercel.app/" target="_blank">
+    Click here to view the Live Demo of the Next.js 14 AI Prompt Sharing Application
+  </a>
   <br />
 
   <div>
